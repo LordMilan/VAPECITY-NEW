@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VAPECITY-NEW/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/VAPECITY-NEW/static/js/main.8875c840.chunk.js",
+    "main.js.map": "/VAPECITY-NEW/static/js/main.8875c840.chunk.js.map",
+    "runtime-main.js": "/VAPECITY-NEW/static/js/runtime-main.5a080076.js",
+    "runtime-main.js.map": "/VAPECITY-NEW/static/js/runtime-main.5a080076.js.map",
+    "static/js/2.331304c2.chunk.js": "/VAPECITY-NEW/static/js/2.331304c2.chunk.js",
+    "static/js/2.331304c2.chunk.js.map": "/VAPECITY-NEW/static/js/2.331304c2.chunk.js.map",
+    "index.html": "/VAPECITY-NEW/index.html",
+    "precache-manifest.a61185b360f11cdbd0013afc88da969f.js": "/VAPECITY-NEW/precache-manifest.a61185b360f11cdbd0013afc88da969f.js",
+    "service-worker.js": "/VAPECITY-NEW/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/VAPECITY-NEW/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.331304c2.chunk.js.LICENSE.txt": "/VAPECITY-NEW/static/js/2.331304c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a080076.js",
+    "static/js/2.331304c2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8875c840.chunk.js"
+  ]
+}
